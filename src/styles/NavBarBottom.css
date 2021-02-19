@@ -1,0 +1,13 @@
+#upcomingtasks {
+    display: flex;
+    /* flex-direction: row;
+    justify-content: right; */
+}
+
+#addbuttonbackground {
+  background-color: rgb(121, 120, 120);
+}
+
+.addsymbol {
+    color: white;
+}
